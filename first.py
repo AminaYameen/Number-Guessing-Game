@@ -42,7 +42,7 @@ def main():
     elif score>=NUM_ROUNDS//2:
         print("Good job, you played really well!")
     else:
-        print("Better luck next time!")
+        print("good luck next time!")
 
 
 
